@@ -1,0 +1,16 @@
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\bin\Debug\TC Kimlik Api Ornegi.exe.config
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\bin\Debug\TC Kimlik Api Ornegi.exe
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\bin\Debug\TC Kimlik Api Ornegi.pdb
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC Kimlik Api Ornegi.csproj.AssemblyReference.cache
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC Kimlik Api Ornegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC_Kimlik_Api_Ornegi.Form1.resources
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC_Kimlik_Api_Ornegi.Properties.Resources.resources
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC Kimlik Api Ornegi.csproj.GenerateResource.cache
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC Kimlik Api Ornegi.csproj.CoreCompileInputs.cache
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC Kimlik Api Ornegi.exe
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC Kimlik Api Ornegi.pdb
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC_Kimlik_Api_Ornegi.Form2.resources
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\bin\Debug\MetroFramework.Design.dll
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\bin\Debug\MetroFramework.dll
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kemal\source\repos\TC Kimlik Api Ornegi\TC Kimlik Api Ornegi\obj\Debug\TC Kimlik Api Ornegi.csproj.CopyComplete
